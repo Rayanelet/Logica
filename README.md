@@ -18,3 +18,6 @@ Trata-se de um modo de pensar e estruturar ideias para escrever um software ou u
 
 A lógica de programação é importante porque é ela quem nos dá as ferramentas necessárias para executar o processo mais básico no desenvolvimento de alguma aplicação: a criação de seu algoritmo.
 
+
+# Autora
+@RayaaneCode 
